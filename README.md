@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  partic11e is a collection of easy-to-use utility and feature libraries for creating anything you want with the [Deno][deno] runtime.
+  partic11e is a collection of easy-to-use utility and feature libraries for creating anything you want with the <a href="https://deno.land">Deno</a> runtime.
 </p>
 
 <h1 align="center">partic11e - {{packageName}}</h1>
@@ -133,5 +133,5 @@ The MIT License (MIT) 2022 integer11. Refer to [LICENSE][license] for details.
 [deno]: https://deno.land "Deno homepage"
 [branches]: https://github.com/partic11e/{{packageName}}/branches "partic11e/{{packageName}} branches on GitHub"
 [releases]: https://github.com/partic11e/{{packageName}}/releases "partic11e/{{packageName}} releases on GitHub"
-[contributing]: https://github.com/partic11e/{{packageName}}/blob/main/.github/CONTRIBUTING.md "partic11e/{{packageName}} contributing guidelines"
+[contributing]: https://github.com/partic11e/{{packageName}}/blob/main/CONTRIBUTING.md "partic11e/{{packageName}} contributing guidelines"
 [license]: https://github.com/partic11e/{{packageName}}/blob/main/LICENSE "partic11e/{{packageName}} license"

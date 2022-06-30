@@ -18,6 +18,3 @@
 
 //#region feature-exports
 //#endregion
-
-//#region internal
-//#endregion
