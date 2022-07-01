@@ -52,7 +52,7 @@ const _execute = async (): Promise<void> => {
 
   const packageName = await _getPackageName();
   const files = await _getFiles(".");
-  const outDir = "./out-dir";// @TODO Switch back to "./";
+  const outDir = "./";
 
   await Deno.mkdir(outDir, { recursive: true });
   await _processFiles(files, packageName, outDir);
