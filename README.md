@@ -88,7 +88,7 @@ export * from "https://denopkg.com/partic11e/{{packageName}}@dev-fix-06145/mod.t
 **Export from a specific release**
 
 ```ts
-export * from "https://denopkg.com/partic11e/{{packageName}}@v0.1.0-alpha/mod.ts";
+export * from "https://denopkg.com/partic11e/{{packageName}}@0.1.0-alpha/mod.ts";
 ```
 
 **Export the latest release**
